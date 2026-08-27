@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Program
 {
     static void Main()
@@ -25,7 +24,6 @@ class Program
 
             if ((op == '/' || op == '%') && b == 0)
                 throw new DivideByZeroException();
-
             Console.WriteLine($"Ket qua: {kq:F2}");
         }
         catch (DivideByZeroException)
