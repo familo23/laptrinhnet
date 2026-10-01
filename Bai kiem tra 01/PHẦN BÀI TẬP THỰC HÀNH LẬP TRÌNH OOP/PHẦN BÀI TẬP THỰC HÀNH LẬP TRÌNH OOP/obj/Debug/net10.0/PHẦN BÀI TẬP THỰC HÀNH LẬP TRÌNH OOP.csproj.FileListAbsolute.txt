@@ -1,0 +1,31 @@
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.AssemblyInfoInputs.cache
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.AssemblyInfo.cs
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.csproj.CoreCompileInputs.cache
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.sourcelink.json
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.exe
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.deps.json
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.runtimeconfig.json
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.pdb
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\refint\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.pdb
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.genruntimeconfig.cache
+D:\EPU\laptrinhnet\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\ref\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.exe
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.deps.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.runtimeconfig.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\bin\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.pdb
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.AssemblyInfoInputs.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.AssemblyInfo.cs
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.csproj.CoreCompileInputs.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.sourcelink.json
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\refint\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.pdb
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.genruntimeconfig.cache
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\ref\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP.dll
+D:\EPU\laptrinhnet\Bai kiem tra 01\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\PHẦN BÀI TẬP THỰC HÀNH LẬP TRÌNH OOP\obj\Debug\net10.0\PH_N B_I.0B3A4399.Up2Date
